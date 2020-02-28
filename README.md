@@ -1,2 +1,2 @@
-# solitaire-downloads
-Contains generated JAR files for solitaire variations
+# Solitaire_Jars
+All Jars are located here
